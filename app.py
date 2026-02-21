@@ -12,7 +12,7 @@ st.set_page_config(page_title="KALI V12 ULTIMATE", page_icon="💎", layout="wid
 st.title("🚀 KALI V12 PRO - ULTIMATE AI TRADING BOT")
 st.markdown("##### Developed by Chief Engineer | 100% Live Market Data")
 
-# --- කොයින් ලිස්ට් එක (20 Coins) ---
+# --- Coin List (20 Coins) ---
 crypto_list = [
     'BTC/USDT', 'ETH/USDT', 'SOL/USDT', 'BNB/USDT', 'XRP/USDT',
     'ADA/USDT', 'DOGE/USDT', 'AVAX/USDT', 'TRX/USDT', 'DOT/USDT',
