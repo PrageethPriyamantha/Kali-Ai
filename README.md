@@ -1,4 +1,4 @@
-# 🚀 KALI V12 ULTIMATE - AI Trading Bot
+# 🚀 KALI V3.5 ULTIMATE - AI Trading Bot
 
 Welcome to **KALI**, an advanced, fully automated Cryptocurrency Market Analyzer and Signal Generator AI. Built entirely in Python, this bot uses real-time market data to identify high-probability trading setups.
 
