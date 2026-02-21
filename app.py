@@ -22,7 +22,7 @@ crypto_list = [
 
 @st.cache_data(ttl=60)
 def fetch_and_analyze_data():
-    exchange = ccxt.bybit({'enableRateLimit': True})
+    exchange = ccxt.kucoin({'enableRateLimit': True})
     summary_data = []
     all_dfs = {}
 
