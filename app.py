@@ -10,7 +10,7 @@ import pytz
 st.set_page_config(page_title="KALI V12 ULTIMATE", page_icon="💎", layout="wide")
 
 st.title("🚀 KALI V12 PRO - ULTIMATE AI TRADING BOT")
-st.markdown("##### Developed by Chief Engineer | 100% Live Market Data")
+st.markdown("##### Developed by Prageeth Priyamantha | 100% Live Market Data")
 
 # --- කොයින් ලිස්ට් එක (20 Coins) ---
 crypto_list = [
