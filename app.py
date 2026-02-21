@@ -1,5 +1,3 @@
-!pip install streamlit ccxt pandas numpy matplotlib pytz
-
 import streamlit as st
 import ccxt
 import pandas as pd
